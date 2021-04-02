@@ -72,7 +72,7 @@ class App extends Component {
         return (
             <div>
                 <div className="calculator-body">
-                    <h1>Simple Calculator ROMAN</h1>
+                    <h1>Simple Calculator ROMAN2</h1>
                     <ResultComponent result={this.state.result}/>
                     <KeyPadComponent onClick={this.onClick}/>
                 </div>
